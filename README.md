@@ -1,5 +1,5 @@
 <h1 align="center">Myself, Hammad Farrukh Rohilla</h1>
-<h3 align="center">I am a physics undergraduate student with a knack for software development. Feel free to reach out if you have any new project ideas or have encountered anything in my projects that can be improved. I'll be happy to contribute and improve my projects as well.</h3>
+<h3 align="center">I am a physics undergraduate student with a knack for software development. Let me know if you have any new ideas or have encountered anything in my projects that can be improved. I'll be happy to contribute and improve my projects as well.</h3>
 
 - -> I’m currently learning **React**
 
