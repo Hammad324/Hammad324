@@ -39,13 +39,3 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
-
----
-
-<p align="center">
-  <i>Most of my production work lives in private repositories — happy to walk through the code during interviews.</i>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad324&show_icons=true&theme=dark&hide_border=true" alt="hammad324"/>
-</p>
