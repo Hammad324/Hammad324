@@ -1,16 +1,51 @@
-<h1 align="center">Myself, Hammad Farrukh Rohilla</h1>
-<h3 align="center">I am a physics undergraduate student with a knack for software development. Let me know if you have any new ideas or have encountered anything in my projects that can be improved. I'll be happy to contribute and improve my projects as well.</h3>
+<h1 align="center">Hammad Farrukh Rohilla</h1>
 
-- -> I’m currently learning **React**
+<h3 align="center">Associate Software Developer . Karachi, Pakistan</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hammad-farrukh-6405b0236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hammad-farrukh-6405b0236/" height="30" width="40" /></a>
+<p align="center">
+  I build production web platforms and backend systems using TypeScript, Node.js, and AWS.
+  Currently building AuthGrid — a multi-tenant authentication-as-a-service API with RS256 JWT, 
+  Argon2, RBAC, and machine-to-machine API key auth.
+  Bachelor of Science in Physics, NED University of Engineering and Technology.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad324&show_icons=true&locale=en" alt="hammad324" /></p>
+<h3 align="left">What I'm working on:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad324&" alt="hammad324" /></p>
+- 🔐 **AuthGrid** — Multi-tenant IDaaS REST API: RS256 asymmetric JWT, RBAC, Argon2, machine-to-machine API key auth *(private — available for review on request)*
+
+---
+
+<h3 align="left">Tech Stack:</h3>
+
+**Languages:** TypeScript, JavaScript, Python
+
+**Backend:** Node.js, NestJS, Express.js, REST, GraphQL
+
+**Frontend:** Next.js, React.js, Tailwind CSS
+
+**Databases:** PostgreSQL, MongoDB, DynamoDB, Prisma, Mongoose
+
+**Cloud & Infra:** AWS (AppSync, Cognito, S3, DynamoDB, Amplify), Docker, Turborepo
+
+**Tools:** Git, Postman, Odoo ERP
+
+---
+
+<h3 align="left">Connect:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hammadfarrukhrohilla" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Most of my production work lives in private repositories — happy to walk through the code during interviews.</i>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammad324&show_icons=true&theme=dark&hide_border=true" alt="hammad324"/>
+</p>
