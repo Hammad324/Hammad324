@@ -13,7 +13,7 @@
 
 <h3 align="left">What I'm working on:</h3>
 
-- 🔐 **AuthGrid** — Multi-tenant IDaaS REST API: RS256 asymmetric JWT, RBAC, Argon2, machine-to-machine API key auth *(private — available for review on request)*
+- 🔐 **AuthGrid** — Multi-tenant IDaaS REST API: RS256 asymmetric JWT, RBAC, Argon2, machine-to-machine API key auth.
 
 ---
 
