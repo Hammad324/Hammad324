@@ -4,7 +4,7 @@
 
 <p align="center">
   I build production web platforms and backend systems using TypeScript, Node.js, and AWS.
-  Currently building AuthGrid — a multi-tenant authentication-as-a-service API with RS256 JWT, 
+  Currently building AuthGrid, a multi-tenant authentication-as-a-service API with RS256 JWT, 
   Argon2, RBAC, and machine-to-machine API key auth.
   Bachelor of Science in Physics, NED University of Engineering and Technology.
 </p>
